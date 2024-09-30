@@ -1,1 +1,0 @@
-# tutorials-r-hard
